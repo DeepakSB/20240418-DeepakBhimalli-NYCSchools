@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NYC Schools</string>
+    <string name="nyc_schools">New York City Schools</string>
+    <string name="login">Login</string>
+    <string name="enter_school_name">Enter School Name</string>
+    <string name="sat_score">SAT Scores</string>
+    <string name="reading_score">Reading Average Score: %1$s</string>
+    <string name="math_score">Math Average Score: %1$s</string>
+    <string name="writing_score">Writing Average Score: %1$s</string>
+    <string name="close">Close</string>
+    <string name="no_data">No Data</string>
+</resources>
